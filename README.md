@@ -1,6 +1,8 @@
 # bayesreg_
 Fitting Bayesian Regression Models with Continuous Shrinkage Priors Use bayesreg With R Software
 
+https://www.youtube.com/watch?v=UroqphnbR4k
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
